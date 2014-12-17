@@ -5,13 +5,12 @@ Welcome! Here is a Calculator project I built on LearnStreet's Code Garage using
 Project description
 -------------------------
 
-Here is a calculator that allows you to <code>add, subtract, multiply</code> and <code>divide</code> numbers.<br> Add functionality to make the cube, squareroot, negate and factorial buttons work.
+Here is a calculator that allows you to <code>add, subtract, multiply</code> and <code>divide</code> numbers.<br> Add functionality to make the cube, squareroot, negate and factorial functions work.
 
 
 Try it out!
 --------------
 
-Want to see my project for yourself? [Click here](http://www.learnstreet.com//view_profile/5169c9c376b99c68cb000b81/project)
 
 Check out out more coding projects you can do in LearnStreet's Code Garage
 		
